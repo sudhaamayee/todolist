@@ -4,7 +4,7 @@ A cute and quirky desktop to-do list built with Python and Tkinter!
 
 ## 📸 Preview
 
-![Demo Screenshot](./todo_preview.png)
+![Demo Screenshot](./todoss.png)
 
 ## 🚀 Features
 - Add tasks ✅
