@@ -13,6 +13,4 @@ A cute and quirky desktop to-do list built with Python and Tkinter!
 - GUI with Tkinter 🎨
 
 ## 🔗 Links
-
-- 💻 [Live Demo (YouTube)](https://youtu.be/your-demo-link)
-- 📁 [Source Code (GitHub)](https://github.com/your-username/todo-list-tkinter)
+- 📁 [Source Code (GitHub)](https://github.com/sudhaamayee/todolist)
