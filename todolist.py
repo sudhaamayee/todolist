@@ -55,11 +55,9 @@ for _ in range(60):
     y = random.randint(0, 540)
     canvas.create_text(x, y, text=doodle, font=("Comic Sans MS", 12), fill="black")
 
-# === Frame that will be outlined with doodles ===
 frame_x, frame_y = 80, 40
 frame_w, frame_h = 260, 470
 
-# 🎁 Place doodles around the task area like a border
 for _ in range(30):
     doodle = random.choice(DOODLES)
     # Choose border side randomly
@@ -117,3 +115,4 @@ footer.pack()
 
 # === Run the App ===
 root.mainloop()
+
